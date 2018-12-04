@@ -1,7 +1,7 @@
 <?php
 /*
 سورس اصلی ربات پی وی رسان
-@PvResanBot
+773238595:AAGO1FrHej96D804dJpiCMMeXLNpbkNDi4g
 دست هیچ بنی بشری نیست و نخواهد بود
 
 این سورس ای هم که داخل این گیت هاب هست
@@ -28,7 +28,7 @@ https://feelthecode.com
 صورت پذیرد
 
 site: https://feelthecode.com
-Telegram Bot: https://telegram.me/PvResanBot
+Telegram Bot: https://telegram.me/773238595:AAGO1FrHej96D804dJpiCMMeXLNpbkNDi4g
 Telegram Channel: https://telegram.me/PvResan
 
 یا علی خدا قوت
