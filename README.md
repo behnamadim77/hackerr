@@ -1,5 +1,5 @@
 # سورس اصلی ربات پی وی رسان
-# @PvResanBot
+# @banere_free_bot
 # دست هیچ بنی بشری نیست و نخواهد بود
 
 # این سورس ای هم که داخل این گیت هاب هست
@@ -27,9 +27,9 @@
 
 site: https://feelthecode.com
 -
-Telegram Bot: https://telegram.me/PvResanBot
+Telegram Bot: https://telegram.me/banere_free_bot
 -
-Telegram Channel: https://telegram.me/PvResan
+Telegram Channel: https://telegram.me/LinkBanking
 
 -
 یا علی خدا قوت
