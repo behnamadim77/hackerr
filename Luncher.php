@@ -1,7 +1,7 @@
 <?php
 /*
 سورس اصلی ربات پی وی رسان
-773238595:AAGO1FrHej96D804dJpiCMMeXLNpbkNDi4g
+@banere_free_bot
 دست هیچ بنی بشری نیست و نخواهد بود
 
 این سورس ای هم که داخل این گیت هاب هست
@@ -28,8 +28,8 @@ https://feelthecode.com
 صورت پذیرد
 
 site: https://feelthecode.com
-Telegram Bot: https://telegram.me/773238595:AAGO1FrHej96D804dJpiCMMeXLNpbkNDi4g
-Telegram Channel: https://telegram.me/PvResan
+Telegram Bot: https://telegram.me/banere_free_bot
+Telegram Channel: https://telegram.me/LinkBanking
 
 یا علی خدا قوت
 */
